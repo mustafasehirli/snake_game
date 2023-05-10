@@ -42,12 +42,4 @@ while game_is_on:
             game_is_on = False
             score.game_over()
 
-
-
-
-
-
-
-
-
 screen.exitonclick()
